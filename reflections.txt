@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+  * Horizontal rule and superscript are new to me, I've never used them before. Also learning   keybindings to auto-close tags has been incredibly useful. I usually use auto-close packages but it's really frustrating when trying to wrap existing content in a tag since auto-close keeps closing it before the actual content. Instead of moving the end-tag over and over, ctrl+alt+. has been a life saver
+
+  * the tags/rules for links and images. those were the first things i learned 15 years ago and thankfully they've stuck with me
+
+  * keeping the tags nested consistantly. i don't want to make a mess but i don't want to have a bajillion unnecessary blocks. learning what should be inline and what shouldn't hopefully will come to me in time.
+
+  * taking my time and making sure to close tags appropriately saves a ton of time in the long-run. being careful and a little slow is better than playing detective for the missing end-tags.
